@@ -1,0 +1,25 @@
+.stock-card-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.symbol {
+  margin-right: 2rem;
+  align-content: center;
+  font-weight: bold;
+}
+
+.name {
+  margin-right: 2rem;
+  align-content: center;
+}
+
+.price {
+  margin-right: 2rem;
+  align-content: center;
+}
+
+.change {
+  margin-right: 2rem;
+  align-content: center;
+}
